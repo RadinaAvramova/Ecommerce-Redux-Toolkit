@@ -14,7 +14,7 @@ const Footer = () => {
         </div>
         <div>
           <p className="text-black text-sm font-inter no-underline normal-case">
-            Copyright {year} page by Marko Web
+            Copyright {year} page by
           </p>
         </div>
       </div>
